@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApi_UI</name>
+    </assembly>
+    <members>
+        <member name="M:WebApi_UI.Controllers.ProductsController.GetAll">
+            <summary>
+            Tüm Ürünleri Listeler
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi_UI.Controllers.ProductsController.GetListByCategory(System.Int32)">
+            <summary>
+            Kategori İd Parametresine göre ürünleri listeler
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
